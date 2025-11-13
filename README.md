@@ -39,6 +39,6 @@ Tenho experiência em **C**, **C#**, **HTML**, **CSS**, **JavaScript**, **React*
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicCunha&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicCunha&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
