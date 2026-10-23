@@ -1,17 +1,13 @@
 
-<div align="center">
+<div align="left">
 
 # Olá! Sou o Nicolas Cunha 👋
 
-### `Estudante de Desenvolvimento de Sistemas`
+# *`Estudante de Desenvolvimento de Sistemas`*
 
 Tecnologia, criatividade e aprendizado na prática. 🚀
 
 </div>
-
----
-
-## 👨‍💻 Sobre mim
 
 Tenho 17 anos e sou estudante do Ensino Médio integrado ao curso
 técnico em **Desenvolvimento de Sistemas**.
@@ -24,7 +20,7 @@ novas ferramentas para evoluir como desenvolvedor.
 
 ---
 
-## 🛠️ Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <div align="center">
 
@@ -47,18 +43,19 @@ novas ferramentas para evoluir como desenvolvedor.
 
 </div>
 
----
 
-## 📌 Projetos em destaque
+
+## Projetos em destaque
 
 Aqui compartilho projetos que desenvolvo para colocar meus
 conhecimentos em prática e explorar novas tecnologias.
 
+https://github.com/Theo-Souza-Parreira/apexhoops/tree/dev
 <!-- Adicione aqui os links dos seus principais repositórios -->
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
