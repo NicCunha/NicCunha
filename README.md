@@ -2,8 +2,8 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Tenho 16 anos, sou estudante do Ensino Médio com curso técnico integrado em **Desenvolvimento de Sistemas**.  
-Sou apaixonado por tecnologia e gosto de colocar a mão na massa — criando, testando e aprendendo coisas novas o tempo todo.  
+Tenho 17 anos, sou estudante do Ensino Médio com curso técnico integrado em **Desenvolvimento de Sistemas**.  
+amo tecnologia e gosto de aprnder na prática — criando, testando e aprendendo coisas novas o tempo todo.  
 Tenho experiência em **C**, **C#**, **HTML**, **CSS**, **JavaScript**, **React** e **React Native**.  
 
 ---
